@@ -27,11 +27,11 @@
 </a>-->
 
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently learning **Go**
-- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :office: &nbsp;I'm currently working at **[PaySpace](https://www.payspace.com/?gclid=Cj0KCQiApKagBhC1ARIsAFc7Mc57x6HvEhsBfEC94BE-Cv92lk1L4HoS2U8qkvymCNhecYheEv-YWVsaAmkREALw_wcB)**
+- :seedling: &nbsp;I’m currently learning **---**
+- :speech_balloon: &nbsp;I like to talk about **---** and **---**
+<!--- :mailbox: &nbsp;Ask me anything on my **[issues page]**-->
+<!--- :computer: &nbsp;Connect with me on **[LinkedIn]**-->
 
 <br>
 <p align="center">
@@ -171,6 +171,6 @@
 
 <!-- links -->
 
-[84.51°]: https://github.com/8451 "84.51° Github Home"
+<!--[PaySpace]: https://github.com/8451 "84.51° Github Home"
 [issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"-->
